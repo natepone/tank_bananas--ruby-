@@ -1,0 +1,15 @@
+"FreeSans.ttf"     Copyleft 2002, 2003, 2005, 2008, 2009
+                   Free Software Foundation.
+
+"FreeSans.ttf" is licensed under the GNU General Public License.
+
+You should have received a copy of the GNU General Public License along with 
+this program; if not, write to:
+
+  Free Software Foundation, Inc.,
+  59 Temple Place, Suite 330,
+  Boston, MA  02111-1307  USA
+  
+I copied chimp.rb from rubygames.org then modified it for practice.
+
+So far, I have made the game fullscreen, and the Apache flies in 2D. I replaced the .bmps, and added flying bananas, which will eventually be fired from the tank. I included the original chimp.rb from Rubygames.org for comparison purposes.
